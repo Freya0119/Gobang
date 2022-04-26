@@ -1,0 +1,10 @@
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\bin\Debug\五子棋.exe.config
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\bin\Debug\五子棋.exe
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\bin\Debug\五子棋.pdb
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.csproj.AssemblyReference.cache
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.Properties.Resources.resources
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.csproj.GenerateResource.cache
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.csproj.CoreCompileInputs.cache
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.exe
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.pdb
+C:\Users\Eruda\Desktop\NewFolder\五子棋\五子棋\obj\Debug\五子棋.Form1.resources
